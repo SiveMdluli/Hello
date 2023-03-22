@@ -30,7 +30,7 @@
 
 # 📖 [Hello-Microverse] <a name="about-project"></a>
 
-**[your_project__name]** is a simple website that is made out of HTML and CSS. It dicplays the text "Hello Microverse!" on the screen, colored cyan in css.
+**[Hello-Microverse]** is a simple website that is made out of HTML and CSS. It dicplays the text "Hello Microverse!" on the screen, colored cyan in css.
 
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
@@ -50,9 +50,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- Coming soon
+- A live demo for this project will be available once the project has been completed and deployed. It is still in progress.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -63,7 +61,7 @@
 To get a local copy up and running, follow these steps:
 - Open your Terminal
 - Navigate to the desired directory[folder] to which you want to clone the repository to
-- [Copy & Paste] git clone https://github.com/SiveMdluli/Hello-Microverse-Project-.git
+- [Copy & Paste] git clone https://github.com/SiveMdluli/Hello.git
 
 ### Prerequisites
 
@@ -76,12 +74,12 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-- git clone https://github.com/SiveMdluli/Hello-Microverse-Project-.git
+- git clone https://github.com/SiveMdluli/Hello.git
 Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/SiveMdluli/Hello-Microverse-Project-.git
+  git clone https://github.com/SiveMdluli/Hello.git
 ```
 --->
 
